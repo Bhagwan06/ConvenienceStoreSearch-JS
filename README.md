@@ -25,4 +25,4 @@ You can check out the project's live version at https://bhagwan06.github.io/Conv
    git clone https://github.com/yourusername/convenience-store-search.git
 
    ```bash
-   git clone https://github.com/yourusername/convenience-store-search.git
+   git clone https://github.com/bhagwan06/convenience-store-search.git
